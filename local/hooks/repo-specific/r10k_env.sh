@@ -22,4 +22,3 @@ while read oldrev newrev refname; do
         echo "r10k skipping $refname"
     fi
 done
-touch /tmp/fiskening2
